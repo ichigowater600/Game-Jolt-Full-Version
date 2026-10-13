@@ -244,4 +244,4 @@ This repository serves as the official landing page for Game Jolt. The software 
 **Get the most recent version of Game Jolt today!**
 
 ---
-**Last updated:** 2026-10-12 20:43:24 UTC
+**Last updated:** 2026-10-13 02:20:48 UTC
